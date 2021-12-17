@@ -1,0 +1,9 @@
+E:\diploma\Prog3\AT3\BinReadWrite\bin\Debug\netcoreapp3.1\BinReadWrite.deps.json
+E:\diploma\Prog3\AT3\BinReadWrite\bin\Debug\netcoreapp3.1\BinReadWrite.dll
+E:\diploma\Prog3\AT3\BinReadWrite\bin\Debug\netcoreapp3.1\BinReadWrite.pdb
+E:\diploma\Prog3\AT3\BinReadWrite\obj\Debug\netcoreapp3.1\BinReadWrite.csproj.AssemblyReference.cache
+E:\diploma\Prog3\AT3\BinReadWrite\obj\Debug\netcoreapp3.1\BinReadWrite.AssemblyInfoInputs.cache
+E:\diploma\Prog3\AT3\BinReadWrite\obj\Debug\netcoreapp3.1\BinReadWrite.AssemblyInfo.cs
+E:\diploma\Prog3\AT3\BinReadWrite\obj\Debug\netcoreapp3.1\BinReadWrite.csproj.CoreCompileInputs.cache
+E:\diploma\Prog3\AT3\BinReadWrite\obj\Debug\netcoreapp3.1\BinReadWrite.dll
+E:\diploma\Prog3\AT3\BinReadWrite\obj\Debug\netcoreapp3.1\BinReadWrite.pdb
