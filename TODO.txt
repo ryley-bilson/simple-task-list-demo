@@ -1,0 +1,18 @@
+- Change Task to utilise only date (ie. not time)
+- Integrate enum (priority) into functionality
+- Plan UI changes
+		- Add toolbar
+		- Add status strip
+		- Add Task.Priority to display table
+		- Add Task.Priority to editing fields
+		- Add tooltips
+- isUnsaved (ie. "Are you sure [. . .]")
+- Unit tests (FULL/EXTREME coverage)
+
+
+############################################################
+DONE - DONE - DONE - DONE - DONE - DONE - DONE - DONE - DONE
+############################################################
+- Reintegrate as new project
+= Make quicksort method generic
+= Implement IComparable in QueueNode
