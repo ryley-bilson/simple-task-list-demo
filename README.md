@@ -15,7 +15,7 @@
 - [ ] Unit tests (FULL/EXTREME coverage)
 
 ### Changelog
-v0.1.0
+[release 1, soon]
 - Initial release
 - Separated quicksort from `Queue.cs`
 - Changed quicksort methods to generic
