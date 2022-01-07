@@ -19,4 +19,4 @@
 - Initial release
 - Separated quicksort from `Queue.cs`
 - Changed quicksort methods to generic
-  - Now requires object type to implement `IComparable`
+  - Now functions for `List<T> array where T : System.IComparable`
