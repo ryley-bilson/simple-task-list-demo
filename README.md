@@ -7,10 +7,10 @@
 - [ ] Integrate priority (enum) into functionality
 - [ ] Plan UI changes
   - [ ] Add toolbar
-	- [ ] Add status strip
-	- [ ] Add Task.Priority to display table
-	- [ ] Add Task.Priority to editing fields
-	- [ ] Add tooltips
+  - [ ] Add status strip
+  - [ ] Add Task.Priority to display table
+  - [ ] Add Task.Priority to editing fields
+  - [ ] Add tooltips
 - [ ] `isUnsaved` (ie. "Are you sure you want to [quit/load/etc.]?")
 - [ ] Unit tests (FULL/EXTREME coverage)
 
